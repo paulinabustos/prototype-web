@@ -78,10 +78,3 @@ Iniciamos Sidekiq
 ##¿Preguntas o problemas?
 ​
 Mantenemos la conversación del proyecto en nuestra página de problemas  [issues](https://github.com/shapeable/prototype-web/issues). Si usted tiene cualquier otra pregunta, nos puede contactar por correo a <equipo@civica.digital>.
-
-
-##Licencia
-​
-Licencia: Apache License, Version 2.0 [Lee la documentación](http://www.apache.org/licenses/LICENSE-2.0) para más información.
-​
-Creado por [Shapeable](http://www.shapeable.net), 2017.
